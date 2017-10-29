@@ -1,0 +1,825 @@
+Title: Image Pre-compensation: Balancing Contrast and Ringing  - formely: Image Preconditioning: Balancing Contrast and Ringing
+Citations: 1
+
+Title: Full-Angle Quaternions for Robustly Matching Vectors of 3D Rotations  - formely: Robust and Efficient Full-Angle Quaternions for Matching Arrays of 3D Rotations
+Citations: 2
+
+Title: Covariance Trees for 2D and 3D Processing
+Citations: 2
+
+Title: Deformable Registration of Feature-Endowed Point Sets Based on Tensor Fields
+Citations: 2
+
+Title: Scanline Sampler without Detailed Balance: An Efficient MCMC for MRF Optimization
+Citations: 2
+
+Title: A Primal-Dual Method for Higher-Order Multilabel Markov Random Fields
+Citations: 2
+
+Title: Diversity-Enhanced Condensation Algorithm and Its Application for Robust and Accurate Endoscope Electromagnetic Tracking
+Citations: 2
+
+Title: Timing-Based Local Descriptor for Dynamic Surfaces
+Citations: 3
+
+Title: Robust 3D Features for Matching between Distorted Range Scans Captured by Moving Systems  - formely: A 3D Feature for Moving Range Scanning Systems
+Citations: 3
+
+Title: Parsing World\'s Skylines using Shape-Constrained MRFs
+Citations: 3
+
+Title: Fast Approximate Inference in Higher Order MRF-MAP Labeling Problems
+Citations: 4
+
+Title: Multi Label Generic Cuts: Optimal Inference in Multi Label Multi Clique MRF-MAP Problems
+Citations: 4
+
+Title: Second-order Shape Optimization for Geometric Inverse Problems in Vision
+Citations: 4
+
+Title: Stereo under Sequential Optimal Sampling: A Statistical Analysis Framework for Search Space Reduction
+Citations: 4
+
+Title: Reflectance and Fluorescent Spectra Recovery based on Fluorescent Chromaticity Invariance under Varying Illumination
+Citations: 4
+
+Title: Surface Registration by Optimization in Constrained Diffeomorphism Space
+Citations: 5
+
+Title: Object Classiﬁcation with Adaptable Regions  - formely: Object Classification with Adaptive Regions
+Citations: 5
+
+Title: Video Motion Segmentation Using New Adaptive Manifold Denoising Model
+Citations: 5
+
+Title: Trinocular Geometry Revisited
+Citations: 6
+
+Title: Camouflaging an Object from Many Viewpoints  - formely: Object Non-detection: Hiding an Object from Many Viewpoints
+Citations: 6
+
+Title: Beta Process Multiple Kernel Learning
+Citations: 7
+
+Title: Raw-to-raw: Mapping between image sensor color responses
+Citations: 7
+
+Title: Interval Tracker: Tracking by Interval Analysis
+Citations: 7
+
+Title: Co-Segmentation of Textured 3D Shapes with Sparse Annotations
+Citations: 7
+
+Title: Separation of Line Drawings Based on Split Faces for 3D Object Reconstruction
+Citations: 7
+
+Title: Learning-Based Atlas Selection for Multiple-Atlas Segmentation
+Citations: 7
+
+Title: Immediate, scalable object category detection
+Citations: 7
+
+Title: Symmetry-Aware Isometric Matching of Incomplete 3D Surfaces
+Citations: 7
+
+Title: Data-driven Flower Petal Modeling with Botany Priors
+Citations: 8
+
+Title: Deformable Object Matching via Deformation Decomposition based 2D Label MRF
+Citations: 8
+
+Title: A General and Simple Method for Camera Pose and Focal Length Determination
+Citations: 8
+
+Title: Ground Plane Estimation using a Hidden Markov Model
+Citations: 8
+
+Title: Human Body Shape Estimation Using a Multi-Resolution Manifold Forest
+Citations: 8
+
+Title: Evaluation of Scan-Line Optimization for 3D Medical Image Registration
+Citations: 9
+
+Title: Measuring Distance Between Unordered Sets of Different Sizes
+Citations: 9
+
+Title: A Compositional Model for Low-Dimensional Image Set Representation
+Citations: 9
+
+Title: Asymmetrical Gauss Mixture Models for Point Sets Matching
+Citations: 9
+
+Title: The Shape-Time Random Field for Semantic Video Labeling
+Citations: 9
+
+Title: Point Matching in the Presence of Outliers in Both Point Sets: A Concave Optimization Approach
+Citations: 9
+
+Title: Local Regularity-driven City-scale Facade Detection from Aerial Images
+Citations: 9
+
+Title: Joint Coupled-Feature Representation and Coupled Boosting for AD Diagnosis
+Citations: 10
+
+Title: An Automated Estimator of Image Visual Realism Based on Human Cognition
+Citations: 10
+
+Title: Maximum Persistency in Energy Minimization  - formely: Search Space Reduction in Discrete Optimization
+Citations: 11
+
+Title: When 3D Reconstruction Meets Ubiquitous RGB-D Images
+Citations: 11
+
+Title: Active Flattening of Curved Document Images via Two Structured Beams
+Citations: 11
+
+Title: Model Transport: Towards Scalable Transfer Learning on Manifolds
+Citations: 11
+
+Title: The Synthesizability of texture examples
+Citations: 11
+
+Title: Newton Greedy Pursuit: a Quadratic Approximation Method for Sparsity-Constrained Optimization
+Citations: 11
+
+Title: Stable and Informative Spectral Signatures for Graph Matching
+Citations: 11
+
+Title: Pedestrian Detection in Low-resolution Imagery by Learning Multi-scale Intrinsic Motion Structures
+Citations: 11
+
+Title: SCAMS: Simultaneous Clustering and Model Selection
+Citations: 11
+
+Title: Non-Parametric Bayesian Constrained Local Models
+Citations: 12
+
+Title: Inferring Analogous Attributes
+Citations: 12
+
+Title: Two-View Camera Calibration for Multi-Layer Flat Refractive Interface
+Citations: 12
+
+Title: Attributed Graph Mining and Matching: An Attempt to Define and Extract Soft Attributed Patterns  - formely: Unsupervised Learning for Graph Matching: An Attempt to Define and Extract Soft Attributed Patterns
+Citations: 12
+
+Title: Scale-space Processing Using Polynomial Representations
+Citations: 13
+
+Title: A Riemannian framework for matching point clouds represented by the Schr\&quot;{o}dinger distance transform
+Citations: 13
+
+Title: Minimal Solvers for Relative Pose with a Single Unknown Radial Distortion
+Citations: 13
+
+Title: Modeling Image Patches with a Generic Dictionary of Mini-Epitomes
+Citations: 13
+
+Title: Active Frame, Location, and Detector Selection for Automated and Manual Video Annotation
+Citations: 13
+
+Title: Tracking indistinguishable translucent objects over time using weakly supervised structured learning  - formely: Learning to disambiguate indistinguishable objects over time: weakly supervised structured learning
+Citations: 13
+
+Title: Unsupervised Learning of Dictionaries of Hierarchical Compositional Models
+Citations: 13
+
+Title: What Camera Motion Reveals About Shape with Unknown BRDF
+Citations: 14
+
+Title: Surface-from-Gradients: An Approach Based on Discrete Geometry Processing
+Citations: 14
+
+Title: Robust Surface Reconstruction via Triple Sparsity
+Citations: 14
+
+Title: Inferring Unseen Views of People
+Citations: 15
+
+Title: Submodular Object Recognition
+Citations: 15
+
+Title: Learning Scalable Discriminative Attributes with Sample Relatedness
+Citations: 15
+
+Title: MAP Visibility Estimation for Large-Scale Dynamic 3D Reconstruction  - formely: Optimal Visibility Estimation for Large-Scale Dynamic 3D Reconstruction
+Citations: 16
+
+Title: A Minimal Solution to the Generalized Pose-and-Scale Problem
+Citations: 16
+
+Title: Detecting Objects using Deformation Dictionaries
+Citations: 17
+
+Title: Optimizing Over Radial Kernels on Compact Manifolds
+Citations: 17
+
+Title: Associative embeddings for large-scale knowledge transfer with self-assessment
+Citations: 17
+
+Title: StoryGraphs: Visualizing Character Interactions as a Timeline  - formely: StoryGraphs: Narrative Charts for TV series
+Citations: 17
+
+Title: Product Sparse Coding
+Citations: 17
+
+Title: Feature-Independent Action Spotting Without Human Localization, Segmentation or Frame-wise Tracking
+Citations: 17
+
+Title: Simultaneous Localization and Calibration: Self-Calibration of Consumer Depth Cameras  - formely: Simultaneous Localization and Calibration
+Citations: 18
+
+Title: Capturing long-tail distributions of object subcategories  - formely: Modeling long-tail distributions of object subcategories
+Citations: 18
+
+Title: Quality-based Multimodal Classification Using Tree-Structured Sparsity
+Citations: 18
+
+Title: Fantope Regularization in Metric Learning
+Citations: 19
+
+Title: Partial Optimality by Pruning for MAP-inference with General Graphical Models
+Citations: 19
+
+Title: Multivariate General Linear Models  on Riemannian Manifolds with Applications to Statistical Analysis of Diffusion Weighted Images
+Citations: 19
+
+Title: Transparent Object Reconstruction via Coded Transport of Intensity
+Citations: 19
+
+Title: Calibrating a non-isotropic near point light source using a plane
+Citations: 19
+
+Title: Multiview Shape and Reflectance from Natural Illumination
+Citations: 20
+
+Title: Fourier Analysis on Transient Imaging with a Multifrequency Time-of-Flight Camera  - formely: Fourier Analysis on Transient Imaging by Multifrequency Time-of-Flight Camera
+Citations: 20
+
+Title: A Probabilistic Framework for Multitarget Tracking with Mutual Occlusions
+Citations: 20
+
+Title: Fast MRF Optimization with Application to Depth Reconstruction  - formely: Global Optimization for Depth Reconstruction from Speckle Patterns
+Citations: 20
+
+Title: Exploiting Shading Cues in Kinect IR Images for Geometry Refinement
+Citations: 20
+
+Title: GPS-Tag Reﬁnement using Random Walks with an Adaptive Damping Factor  - formely: Robust Refinement of GPS-Tags Using RandomWalks with an Adaptive Damping Factor
+Citations: 20
+
+Title: Beyond Human Opinion Scores: Blind Image Quality Assessment based on Synthetic Scores
+Citations: 21
+
+Title: Grassmann Averages for Scalable Robust PCA
+Citations: 21
+
+Title: Towards Multi-view and Partially-occluded Face Alignment
+Citations: 21
+
+Title: Sparse Dictionary Learning for Edit Propagation of High-resolution Images  - formely: Sparse Representation for Edit Propagation of High-Resolution Images
+Citations: 22
+
+Title: Similarity-Aware Patchwork Assembly for Depth Image Super-Resolution
+Citations: 22
+
+Title: Anytime Recognition of Objects and Scenes
+Citations: 22
+
+Title: Empirical Minimum Bayes Risk Prediction: How to extract an extra few% performance from vision models with just three more parameters  - formely: Empirical Minimum Bayes Risk Prediction: How to extract an extra 3% performance from vision models with just two more parameters
+Citations: 23
+
+Title: Scene Labeling Using Beam Search Under Mutex Constraints  - formely: Heuristic-Score Beam Search for Scene Labeling
+Citations: 23
+
+Title: A Multigraph Representation for Improved Unsupervised/Semi-supervised Learning of Human Actions
+Citations: 23
+
+Title: Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation  - formely: Discrete-Continuous Gradient Orientation Estimation for Faster Unsupervised Segmentation
+Citations: 23
+
+Title: Bayesian View Synthesis and Image-Based Rendering Principles
+Citations: 23
+
+Title: Unsupervised Multi-Class Joint Image Segmentation  - formely: Joint Unsupervised Multi-Class Image Segmentation
+Citations: 24
+
+Title: Semi-supervised Relational Topic Model for Weakly Annotated Image Recognition in Social Media
+Citations: 24
+
+Title: Are Cars Just 3D Boxes? - Jointly Estimating the 3D Shape of Multiple Objects
+Citations: 25
+
+Title: Reconstructing Storyline Graphs for Image Recommendation from Web Community Photos
+Citations: 26
+
+Title: Cut, Glue &amp; Cut: A Fast, Approximate Solver for Multicut Partitioning
+Citations: 26
+
+Title: Hash-SVM: Scalable Kernel Machines for Large-Scale Visual Classification
+Citations: 26
+
+Title: L0 Regularized Stationary Time Estimation for Crowd Group Analysis
+Citations: 27
+
+Title: Unsupervised Spectral Dual Assignment Clustering of Human Actions in Context
+Citations: 27
+
+Title: Photometric Stereo using Constrained Bivariate Regression for General Isotropic Surfaces
+Citations: 27
+
+Title: Parsing Occluded People
+Citations: 27
+
+Title: Multi-Object Tracking via Constrained Sequential Labeling
+Citations: 27
+
+Title: Local Layering for Joint Motion Estimation and Occlusion Detection
+Citations: 28
+
+Title: Beyond Comparing Image Pairs: Setwise Active Learning for Relative Attributes
+Citations: 28
+
+Title: Submodularization for Binary Pairwise Energies  - formely: Local Submodular Approximations for Binary Pairwise Energies
+Citations: 28
+
+Title: Max-Margin Boltzmann Machines for Object Segmentation
+Citations: 28
+
+Title: Single-View 3D Scene Parsing by Attributed Grammar
+Citations: 28
+
+Title: Simplex-Based 3D Spatio-Temporal Feature Description for Action Recognition
+Citations: 29
+
+Title: Human Action Recognition Based on Context-Dependent Graph Kernels
+Citations: 29
+
+Title: Occluding Contours for Multi-View Stereo
+Citations: 29
+
+Title: Hierarchical Subquery Evaluation for Active Learning on a Graph
+Citations: 30
+
+Title: Automatic Face Reenactment
+Citations: 30
+
+Title: Persistent Tracking for Wide Area Aerial Surveillance
+Citations: 30
+
+Title: Critical Configurations For Radial Distortion Self-Calibration
+Citations: 30
+
+Title: Unsupervised One-Class Learning for Automatic Outlier Removal
+Citations: 31
+
+Title: Looking Beyond the Visible Scene
+Citations: 31
+
+Title: Robust Orthonormal Subspace Learning: Efficient Recovery of Corrupted Low-rank Matrices
+Citations: 31
+
+Title: Image-based Synthesis and Re-Synthesis of Viewpoints Guided by 3D Models
+Citations: 31
+
+Title: Preconditioning for Accelerated Iteratively Reweighted Least Squares in Structured Sparsity Reconstruction
+Citations: 31
+
+Title: Image Fusion with Local Spectral Consistency and Dynamic Gradient Sparsity
+Citations: 31
+
+Title: Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
+Citations: 32
+
+Title: A Mixture of Manhattan Frames: Beyond the Manhattan World
+Citations: 32
+
+Title: Filter Forests for Learning Data-Dependent Convolutional Kernels
+Citations: 32
+
+Title: Nearest Neighbor-based Label Transfer for Weakly Supervised Multiclass Video Segmentation
+Citations: 33
+
+Title: Domain Adaptation on the Statistical Manifold
+Citations: 33
+
+Title: Temporal Sequence Modeling For Video Event Detection
+Citations: 33
+
+Title: 3D Shape and Indirect Appearance by Structured Light Transport
+Citations: 33
+
+Title: Segmentation-Free Dynamic Scene Deblurring
+Citations: 34
+
+Title: Optimal Decisions from Probabilistic Models: the Intersection-over-Union Case
+Citations: 34
+
+Title: Multi-Output Learning for Camera Relocalization
+Citations: 34
+
+Title: Look at the Driver, Look at the Road: No Distraction! No Accident!
+Citations: 34
+
+Title: From Stochastic Grammar to Bayes Network: Probabilistic Parsing of Complex Activity
+Citations: 34
+
+Title: Rate-Invariant Analysis of Trajectories on Riemannian Manifolds with Application in Visual Speech Recognition
+Citations: 34
+
+Title: Compact Representation for Image Classification: To Choose or to Compress?
+Citations: 35
+
+Title: Deblurring Low-light Images with Light Streaks
+Citations: 35
+
+Title: Learning to Detect Ground Control Points for Improving the Accuracy of Stereo Matching
+Citations: 35
+
+Title: Visual Persuasion: Inferring the Communicative Intents of Images
+Citations: 35
+
+Title: Robust Separation of Reflection from Multiple Images
+Citations: 36
+
+Title: Low-Cost Compressive Sensing for Color Video and Depth
+Citations: 38
+
+Title: Analysis by Synthesis: Object Recognition by Object Reconstruction
+Citations: 38
+
+Title: Orientational Pyramid Matching for Recognizing Indoor Scenes
+Citations: 38
+
+Title: Dirichlet-based Histogram Feature Transform for Image Classification
+Citations: 39
+
+Title: DISCOVER: Discovering Important Segments for Classification of Video Events and Recounting
+Citations: 39
+
+Title: Scalable 3D Tracking of Multiple Interacting Objects
+Citations: 39
+
+Title: Recognizing RGB Images by Learning from RGB-D Data
+Citations: 39
+
+Title: Efficient Action Localization with Approximately Normalized Fisher Vectors  - formely: Efficient Localization with Fisher Vectors using Approximate Normalizations
+Citations: 40
+
+Title: Incremental Learning of NCM Forests for Large-Scale Image Classification
+Citations: 40
+
+Title: Complex Non-Rigid Motion 3D Reconstruction by Union of Subspaces
+Citations: 42
+
+Title: MILCut: A Sweeping Line Multiple Instance Learning Paradigm for Interactive Image Segmentation
+Citations: 42
+
+Title: Learning Euclidean-to-Riemannian Metric for Point-to-Set Classification
+Citations: 42
+
+Title: Predicting Object Dynamics in Scenes
+Citations: 42
+
+Title: Good Vibrations: A Modal Analysis Approach for Sequential Non-Rigid Structure from Motion
+Citations: 42
+
+Title: Time-Mapping Using Space-Time Saliency
+Citations: 43
+
+Title: Predicting Matchability
+Citations: 43
+
+Title: Online Object Tracking, Learning and Parsing with And-Or Graphs
+Citations: 43
+
+Title: Iterated Second-Order Label Sensitive Pooling for 3D Human Pose Estimation
+Citations: 43
+
+Title: Shape-Preserving Half-Projective Warps for Image Stitching
+Citations: 44
+
+Title: Matrix-Similarity Based Loss Function and Feature Selection for Alzheimer's Disease Diagnosis
+Citations: 45
+
+Title: Color Transfer using Probabilistic Moving Least Squares
+Citations: 45
+
+Title: Collaborative Hashing
+Citations: 45
+
+Title: Recognition of Complex Events: Exploiting Temporal Dynamics between Underlying Concepts  - formely: Recognition of Complex Events exploiting Temporal Dynamics between  Underlying Concepts
+Citations: 46
+
+Title: Piecewise Planar and Compact Floorplan Reconstruction from Images
+Citations: 48
+
+Title: Graph Cut based Continuous Stereo Matching using Locally Shared Labels
+Citations: 48
+
+Title: Diffuse Mirrors: 3D Reconstruction from Diffuse Indirect Illumination Using Inexpensive Time-of-Flight Sensors
+Citations: 49
+
+Title: Reconstructing PASCAL VOC
+Citations: 49
+
+Title: Object-based Multiple Foreground Video Co-segmentation
+Citations: 49
+
+Title: Nonparametric Context Modeling of Local Appearance for Pose- and Expression-Robust Facial Landmark Localization
+Citations: 49
+
+Title: Deep Fisher Kernels – End to End Learning of the Fisher Kernel GMM Parameters  - formely: Deep Fisher Kernels
+Citations: 51
+
+Title: Subspace Clustering for Sequential Data
+Citations: 52
+
+Title: Bayes Merging of Multiple Vocabularies for Scalable Image Retrieval
+Citations: 52
+
+Title: Fast and Accurate Image Matching with Cascade Hashing for 3D Reconstruction
+Citations: 52
+
+Title: Tracklet Association with Online Target-Specific Metric Learning  - formely: Tracklet Association with Online Reidentification in Network Flow Optimaiztion for Long-term Multi-Person Tracking
+Citations: 53
+
+Title: Neural Decision Forests for Semantic Image Labelling
+Citations: 53
+
+Title: Multiscale Centerline Detection by Learning a Scale-Space Distance Transform
+Citations: 53
+
+Title: Cross-Scale Cost Aggregation for Stereo Matching
+Citations: 53
+
+Title: Depth Enhancement via Low-rank Matrix Completion
+Citations: 54
+
+Title: SteadyFlow: Spatially Smooth Optical Flow for Video Stabilization
+Citations: 56
+
+Title: The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities
+Citations: 57
+
+Title: L0 norm  based dictionary learning method with global convergence
+Citations: 58
+
+Title: Video Event Detection by Inferring Temporal Instance Labels
+Citations: 58
+
+Title: Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation
+Citations: 58
+
+Title: Illumination-Aware Age Progression
+Citations: 59
+
+Title: Using k-poselets for detecting people and localizing their keypoints
+Citations: 60
+
+Title: 100+ Times Faster Weighted Median Filter   - formely: Joint-Histogram Weighted Median Filter
+Citations: 60
+
+Title: Predicting Failures of Vision Systems  - formely: Alert: Predicting Failures
+Citations: 61
+
+Title: Socially-aware Large-scale Crowd Forecasting
+Citations: 62
+
+Title: Efficient Boosted Exemplar-based Face Detection
+Citations: 62
+
+Title: Multiple Target Tracking Based on Undirected Hierarchical Relation Hypergraph  - formely: Multiple Target Tracking Based on Hierarchical Relation Hypergraph
+Citations: 62
+
+Title: Cross-view Action Modeling, Learning and Recognition
+Citations: 63
+
+Title: Novel methods for multilinear data completion and de-noising based on tensor-SVD
+Citations: 63
+
+Title: Fine-Grained Visual Comparisons with Local Learning
+Citations: 64
+
+Title: Deeply-Learned Slow Feature Analysis for Action Recognition
+Citations: 65
+
+Title: Single Image Layer Separation using Relative Smoothness
+Citations: 65
+
+Title: Robust Estimation of 3D Human Poses from Single Images
+Citations: 67
+
+Title: How to Evaluate Foreground Maps?
+Citations: 68
+
+Title: Learning an image-based motion context for multiple people tracking
+Citations: 69
+
+Title: A Compact and Discriminative Face Track Descriptor
+Citations: 69
+
+Title: Occlusion Coherence: Localizing Occluded Faces with a Hierarchical Deformable Part Model
+Citations: 69
+
+Title: Birdsnap: Large-scale Fine-grained Visual Categorization of Birds  - formely: BirdMachine: Large-scale Fine-grained Visual Categorization of Birds
+Citations: 69
+
+Title: Generalized Max Pooling
+Citations: 70
+
+Title: Parallax-tolerant Image Stitching
+Citations: 70
+
+Title: Smooth Representation Clustering
+Citations: 70
+
+Title: 3D Pictorial Structures for Multiple Human Pose Estimation  - formely: 3D Pictorial Structures: From Single to Multiple Human Pose Estimation
+Citations: 71
+
+Title: Robust Subspace Segmentation with Block-diagonal Prior
+Citations: 72
+
+Title: Decorrelating Semantic Visual Attributes by Resisting the Urge to Share
+Citations: 73
+
+Title: Total Variation Blind Deconvolution: The Devil is in the Details
+Citations: 74
+
+Title: Joint Summarization of Large-scale Collections of Web Images and Videos for Storyline Reconstruction  - formely: Jointly Summarizing Large-Scale Web Images and Videos for the Storyline Reconstruction
+Citations: 76
+
+Title: Co-localization in Real-World Images
+Citations: 79
+
+Title: Adaptive Partial Differential Equation Learning for Visual Saliency Detection
+Citations: 80
+
+Title: Locally Optimized Product Quantization for Approximate Nearest Neighbor Search  - formely: Locally Optimized Product Quantization
+Citations: 81
+
+Title: Quasi Real-Time Summarization for Consumer Videos
+Citations: 81
+
+Title: Multi-View Super Vector for Action Recognition
+Citations: 82
+
+Title: Parsing videos of actions with segmental grammars
+Citations: 82
+
+Title: Saliency Detection on Light Fields
+Citations: 85
+
+Title: Patch to the Future: Unsupervised Visual Prediction
+Citations: 86
+
+Title: Transfer Joint Matching for Visual Domain Adaptation
+Citations: 86
+
+Title: Temporal Segmentation of Egocentric Videos
+Citations: 89
+
+Title: Strokelets: A Learned Multi-Scale Representation for Scene Text Recognition
+Citations: 89
+
+Title: Fast Edge-Preserving PatchMatch for Large Displacement Optical Flow
+Citations: 92
+
+Title: Generalized Nonconvex Nonsmooth Low-Rank Minimization
+Citations: 93
+
+Title: Multi-source Deep Learning for Human Pose Estimation
+Citations: 95
+
+Title: Context Driven Scene Parsing with Attention to Rare Classes
+Citations: 95
+
+Title: COSTA: Co-Occurrence Statistics for Zero-Shot Classification  - formely: Co-Occurrence Statistics for Zero-Shot Classification
+Citations: 96
+
+Title: Shrinkage Fields for Effective Image Restoration
+Citations: 97
+
+Title: Multi-fold MIL Training for Weakly Supervised Object Localization
+Citations: 100
+
+Title: Semi-Supervised Coupled Dictionary Learning for Person Re-identification
+Citations: 100
+
+Title: Scene-Independent Group Profiling in Crowd
+Citations: 102
+
+Title: Collective Matrix Factorization Hashing for Multimodal Data
+Citations: 106
+
+Title: FAUST: Dataset and evaluation for 3D mesh registration
+Citations: 108
+
+Title: Pulling Things out of Perspective
+Citations: 109
+
+Title: Detect What You Can: Detecting and Representing Objects using Holistic Models and Body Parts
+Citations: 118
+
+Title: Triangulation embedding and democratic aggregation for image search
+Citations: 119
+
+Title: The Fastest Deformable Part Model for Object Detection
+Citations: 124
+
+Title: Latent Regression Forest: Structured Estimation of 3D Articulated Hand Posture  - formely: Latent Regression Forest: Structural Estimation of 3D Articulated Hand Posture
+Citations: 124
+
+Title: Packing and Padding: Coupled Multi-index for Accurate Image Retrieval
+Citations: 129
+
+Title: Super Normal Vector for Activity Recognition Using Depth Sequences
+Citations: 136
+
+Title: Learning Everything about Anything: Webly-Supervised Visual Concept Learning
+Citations: 145
+
+Title: Robust Online Multi-Object Tracking based on Tracklet Confidence and Online Discriminative Appearance Learning
+Citations: 146
+
+Title: Kernel-PCA Analysis of Surface Normals
+Citations: 147
+
+Title: Energy based multi-model  fitting &amp; matching for 3D reconstruction
+Citations: 147
+
+Title: Convolutional Neural Networks for No-Reference Image Quality Assessment
+Citations: 153
+
+Title: Fast Supervised Hashing with Decision Trees for High-Dimensional Data
+Citations: 160
+
+Title: Seeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models
+Citations: 164
+
+Title: Realtime and Robust Hand Tracking from Depth
+Citations: 178
+
+Title: Describing Textures in the Wild
+Citations: 179
+
+Title: The Role of Context for Object Detection and Semantic Segmentation in the Wild
+Citations: 218
+
+Title: PANDA: Pose Aligned Networks for Deep Attribute Modeling
+Citations: 229
+
+Title: Weighted Nuclear Norm Minimization with Application to Image Denoising
+Citations: 235
+
+Title: Discriminative Deep Metric Learning for Face Verification in the Wild
+Citations: 235
+
+Title: Blind Multi-Image Restoration
+Citations: 248
+
+Title: Learning Fine-grained Image Similarity with Deep Ranking
+Citations: 248
+
+Title: Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group
+Citations: 290
+
+Title: Learning Mid-level Filters for Person Re-identification
+Citations: 292
+
+Title: Adaptive Color Attributes for Real-Time Visual Tracking
+Citations: 379
+
+Title: Face Alignment at 3000 FPS via Regressing Local Binary Features
+Citations: 388
+
+Title: Saliency Optimization from Robust Background Detection
+Citations: 430
+
+Title: One Millisecond Face Alignment with an Ensemble of Regression Trees
+Citations: 474
+
+Title: Multiscale Combinatorial Grouping
+Citations: 527
+
+Title: DeepPose: Human Pose Estimation via Deep Neural Networks
+Citations: 542
+
+Title: BING: Binarized Normed Gradients for Objectness Estimation at 300fps
+Citations: 623
+
+Title: Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks
+Citations: 805
+
+Title: Large-scale Video Classiﬁcation with Convolutional Neural Networks  - formely: Large-scale Video Classification using Convolutional Neural Networks
+Citations: 1447
+
+Title: DeepFace: Closing the Gap to Human-Level Performance in Face Verification
+Citations: 1678
+
+Title: Rich feature hierarchies for accurate object detection and semantic segmentation
+Citations: 3841
+
+Title: Compuer vision vs. human vision: What can be learned?
+Citations: 6190
+
