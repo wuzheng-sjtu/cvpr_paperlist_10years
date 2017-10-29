@@ -12,7 +12,7 @@ cd cvpr_paperlist_10years/
 python paper_list.py
 ```
 
-###Note:
+## Note:
 
 CVPR 2015 and 2016 paper lists are not found, so they are not supported in our script.
 
